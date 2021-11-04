@@ -4,7 +4,7 @@
 
 I'm a web developer by day, and a nerd 24/7
 
-- 🌱 I’m currently into boxing, rowing, crypto, and parenting
+- 🌱 I’m currently into boxing 🥊 , rowing 🚣‍♂️ , crypto <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png">, and parenting 🍼👶
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-rynodivino@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:rynodivino@gmail.com)](rynodivino@gmail.com)
 
 ## Languages and Tools
@@ -15,7 +15,6 @@ I'm a web developer by day, and a nerd 24/7
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 
 <!--
 **rynodivino/rynodivino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
